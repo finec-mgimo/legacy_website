@@ -2,11 +2,11 @@ site_name: Факультет финансовой экономики
 
 nav:
   - Начало: index.md
-  - Программы: 
+  - Программы обучения: 
     - Обзор: empty.md
-    - 1. Подготовка тестов: empty.md 
-    - 2. Испытания: empty.md
-    - 3. После тестов: empty.md
+    - Финансовая экономика и финансовые технологии: empty.md 
+    - Финансовый менеджмент: empty.md 
+    - Информационные технологии в международном бизнесе: empty.md 
   - Кафедры:
     - Кафедра экономики и финансов: empty.md
     - Кафедра менеджмента: empty.md
@@ -16,15 +16,15 @@ nav:
     - Руководство: empty.md
     - Деканат: empty.md
     - Кафедры: empty.md  
-  - Фото    
-  - Контакты
+  - Фото: empty.md    
+  - Контакты: empty.md
     
 docs_dir: source
 site_dir: docs
 
-repo_name: epogrebnyak/finec
+#repo_name: epogrebnyak/finec
 repo_url: https://github.com/epogrebnyak/finec
-edit_uri: '/epogrebnyak/finec/edit/master/markdown/'
+edit_uri: '/epogrebnyak/finec/edit/master/source/'
 
 
 # Copyright
