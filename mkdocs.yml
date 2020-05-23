@@ -1,7 +1,7 @@
 site_name: Факультет финансовой экономики
 
 nav:
-  - О факультете: index.md
+  - День открытых дверей: index.md
   - Программы обучения:
     - Обзор программ: programs.md
     - Финансовая экономика и финансовые технологии: empty.md
@@ -16,9 +16,12 @@ nav:
     - Руководство: empty.md
     - Деканат: empty.md
     - Кафедры: empty.md
-  - Фото: empty.md
-  - Логотип: gallery.md
-  - Напишите нам: empty.md
+  - Напишите нам: 
+    - Контакты: empty.md
+  - Рабочие материалы(*):  
+    - Логотип: gallery.md
+    - Фото: empty.md
+  
 
 docs_dir: source
 site_dir: docs
