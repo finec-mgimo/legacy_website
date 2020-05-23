@@ -1,37 +1,45 @@
 # finec
 
-День открытых дверей факультета финансовой экономики МГИМО Одинцово
+Сайт факультета финансовой экономики МГИМО Одинцово
 
-## Исходные данные:
+Исходные данные:
 
 - https://odin.mgimo.ru/fakuprav (переделать адрес)
-- http://pk.odin.mgimo.ru/
+- http://pk.odin.mgimo.ru/ (приемная комиссия)
+
+
+## Установка
+
+
+Для запуска этой темы на локальном компьютере требуется [python 3](https://www.python.org/)
+
+<!--
+```python get-pip.py``` or ```pip install --upgrade pip``` to update
+-->
+
+Установите mkdocs и необходимые зависимости:
+
+
+```
+pip install mkdocs mkdocs-material mkdocs-minify-plugin 
+```
+
 
 ## Задачи
+
+Общие:
 
 - [ ] новый адрес для факультета (включая mgimo)
 - [ ] презентация
 - [ ] логотип и графика
 
-## Ссылки
+Ссылки:
 
 - [ ] опрос
 - [ ] канал телеграм + чат для канала 
 
-## Изменения на https://odin.mgimo.ru/fakuprav
+Изменения на https://odin.mgimo.ru/fakuprav :
 
 - [ ] поменять на https://odin.mgimo.ru/finec
 - [ ] убрать текст с https://odin.mgimo.ru/fakuprav
 - [ ] другие изменения
-
-## Требования
-
-- [Phyton](https://www.python.org/)
-- pip
-```python get-pip.py``` or ```pip install --upgrade pip``` to update
-- Mkdocs
-```pip install mkdocs```
-- mkdocs-material 
-```pip install mkdocs-material```
-- mkdocs-minify-plugin 
-```pip install mkdocs-minify-plugin```
