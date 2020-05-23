@@ -15,3 +15,8 @@ https://mgimo.ru/about/today/logo/
 ## Филиал (без оленя)
 
 ![](img/ver2.jpg)
+
+
+## Прозрачный фон 
+
+![](img/logo-blind.png)
