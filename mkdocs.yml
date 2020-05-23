@@ -19,8 +19,8 @@ nav:
   - Напишите нам: 
     - Контакты: empty.md
   - Рабочие материалы(*):  
-    - Фото: empty.md
     - Логотип: gallery.md
+    - Фото: empty.md
   
 
 docs_dir: source
