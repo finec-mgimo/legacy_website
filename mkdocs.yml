@@ -1,0 +1,120 @@
+site_name: Факультет финансовой экономики
+
+nav:
+  - Начало: index.md
+  - Программы: 
+    - Обзор: empty.md
+    - 1. Подготовка тестов: empty.md 
+    - 2. Испытания: empty.md
+    - 3. После тестов: empty.md
+  - Кафедры:
+    - Кафедра экономики и финансов: empty.md
+    - Кафедра менеджмента: empty.md
+    - Кафедра математических методов и бизнес-информатики: empty.md
+    - Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ: empty.md
+  - Сотрудники:
+    - Руководство: empty.md
+    - Деканат: empty.md
+    - Кафедры: empty.md  
+  - Фото    
+  - Контакты
+    
+docs_dir: source
+site_dir: docs
+
+repo_name: epogrebnyak/finec
+repo_url: https://github.com/epogrebnyak/finec
+edit_uri: '/epogrebnyak/finec/edit/master/markdown/'
+
+
+# Copyright
+# copyright: Copyright &copy; 2020 Evgeniy Pogrebnyak
+
+
+# Configuration
+theme:
+  name: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: ru
+  features:
+    - tabs
+    #- instant
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  # icon:
+  #   logo: logo
+  # favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# # Customization
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/squidfunk
+#     - icon: fontawesome/brands/gitter
+#       link: https://gitter.im/squidfunk/mkdocs-material
+#     - icon: fontawesome/brands/docker
+#       link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/squidfunk
+#     - icon: fontawesome/brands/linkedin
+#       link: https://linkedin.com/in/squidfunk/
+#     - icon: fontawesome/brands/instagram
+#       link: https://instagram.com/squidfunk
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:materialx.emoji.twemoji
+  #    emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
