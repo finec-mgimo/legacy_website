@@ -36,6 +36,8 @@ site_dir: docs
 theme:
   name: material
 
+  logo: img/logo.svg
+
   # 404 page
   static_templates:
     - 404.html

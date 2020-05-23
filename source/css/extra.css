@@ -2,3 +2,13 @@
 .md-header {
     background-color: #256398;
 }
+
+.md-tabs__inner {
+    margin-left: 20.7rem;
+}
+
+.md-header-nav__button.md-logo img {
+    width: auto;
+    height: 6rem;
+    margin-top: -1.2rem;
+}
