@@ -1,30 +1,31 @@
 site_name: Факультет финансовой экономики
 
 nav:
-  - Начало: index.md
+  - О факультете: index.md
   - Программы обучения: 
-    - Обзор: empty.md
+    - Обзор программ: programs.md
     - Финансовая экономика и финансовые технологии: empty.md 
     - Финансовый менеджмент: empty.md 
     - Информационные технологии в международном бизнесе: empty.md 
   - Кафедры:
-    - Кафедра экономики и финансов: empty.md
-    - Кафедра менеджмента: empty.md
-    - Кафедра математических методов и бизнес-информатики: empty.md
-    - Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ: empty.md
+    - Кафедра экономики и финансов: chair/finec.md
+    - Кафедра менеджмента: chair/management.md
+    - Кафедра математических методов и бизнес-информатики: chair/mmbi.md
+    - Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ: chair/ai.md
   - Сотрудники:
     - Руководство: empty.md
     - Деканат: empty.md
     - Кафедры: empty.md  
-  - Фото: empty.md    
-  - Контакты: empty.md
+  - Фото: empty.md   
+  - Логотип: gallery.md    
+  - Напишите нам: empty.md
     
 docs_dir: source
 site_dir: docs
 
-#repo_name: epogrebnyak/finec
-repo_url: https://github.com/epogrebnyak/finec
-edit_uri: '/epogrebnyak/finec/edit/master/source/'
+#repo_name: finec-mgimo
+#repo_url: https://github.com/epogrebnyak/finec
+#edit_uri: '/epogrebnyak/finec/edit/master/source/'
 
 
 # Copyright
