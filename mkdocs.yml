@@ -2,11 +2,11 @@ site_name: Факультет финансовой экономики
 
 nav:
   - О факультете: index.md
-  - Программы обучения: 
+  - Программы обучения:
     - Обзор программ: programs.md
-    - Финансовая экономика и финансовые технологии: empty.md 
-    - Финансовый менеджмент: empty.md 
-    - Информационные технологии в международном бизнесе: empty.md 
+    - Финансовая экономика и финансовые технологии: empty.md
+    - Финансовый менеджмент: empty.md
+    - Информационные технологии в международном бизнесе: empty.md
   - Кафедры:
     - Кафедра экономики и финансов: chair/finec.md
     - Кафедра менеджмента: chair/management.md
@@ -15,11 +15,11 @@ nav:
   - Сотрудники:
     - Руководство: empty.md
     - Деканат: empty.md
-    - Кафедры: empty.md  
-  - Фото: empty.md   
-  - Логотип: gallery.md    
+    - Кафедры: empty.md
+  - Фото: empty.md
+  - Логотип: gallery.md
   - Напишите нам: empty.md
-    
+
 docs_dir: source
 site_dir: docs
 
@@ -119,3 +119,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+extra_css:
+  - css/extra.css
