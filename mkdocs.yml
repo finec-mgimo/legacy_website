@@ -16,12 +16,12 @@ nav:
     - Руководство: empty.md
     - Деканат: empty.md
     - Кафедры: empty.md
-  - Напишите нам: 
+  - Напишите нам:
     - Контакты: empty.md
-  - Рабочие материалы(*):  
+  - Рабочие материалы(*):
     - Логотип: gallery.md
     - Фото: empty.md
-  
+
 
 docs_dir: source
 site_dir: docs
@@ -39,7 +39,7 @@ site_dir: docs
 theme:
   name: material
 
-  logo: img/logo.svg
+  logo: img/logo-blind.svg
 
   # 404 page
   static_templates:
