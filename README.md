@@ -11,7 +11,7 @@
 ## Установка
 
 
-Для запуска этой темы на локальном компьютере требуется [python 3](https://www.python.org/)
+Для запуска сайта на локальном компьютере требуется [python 3](https://www.python.org/) и mkdocs:
 
 <!--
 ```python get-pip.py``` or ```pip install --upgrade pip``` to update
