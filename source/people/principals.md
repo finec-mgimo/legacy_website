@@ -23,7 +23,7 @@ https://mgimo.ru/people/alyeshin/
 
 [![](img/thumbs/sarkisyan_jm.jpg)](img/sarkisyan_jm.jpg)
 
-<img src="https://raw.githubusercontent.com/epogrebnyak/finec/master/source/img/people/abramova_av.jpg" align="right">
+<img src="https://epogrebnyak.github.io/finec/people/img/thumbs/sarkisyan_jm.jpg" align="right">
 
 **Ученая степень:** Кандидат юридических наук 
 
