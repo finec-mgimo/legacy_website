@@ -11,3 +11,13 @@
     width: 3rem;
     height: auto;
 }
+
+.clear {
+    clear: both;
+}
+
+.person-thumb {
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    float: left;
+}
