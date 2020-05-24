@@ -6,8 +6,8 @@
 .md-header-nav__button.md-logo {
     padding-top: 2px;
     padding-bottom: 0;
-    img {
-        width: 3rem;
-        height: auto;
-    }
+}
+.md-header-nav__button.md-logo img {
+    width: 3rem;
+    height: auto;
 }
