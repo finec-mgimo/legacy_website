@@ -28,6 +28,7 @@ nav:
 docs_dir: source
 site_dir: docs
 
+
 repo_name: finec-mgimo
 repo_url: https://github.com/epogrebnyak/finec
 edit_uri: '/epogrebnyak/finec/edit/master/source/'
@@ -106,11 +107,11 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  #- pymdownx.emoji:
-  #    emoji_index: !!python/name:materialx.emoji.twemoji
-  #    emoji_generator: !!python/name:materialx.emoji.to_svg
-  # - pymdownx.highlight:
-  #     linenums_style: pymdownx-inline
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+       linenums_style: pymdownx-inline
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
