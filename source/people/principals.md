@@ -1,18 +1,31 @@
 ## Декан факультета
 
+
+* :material-account-circle: – we can use Material Design icons
+* :fontawesome-regular-laugh-wink: – we can also use FontAwesome icons
+* :octicons-octoface: – that's not all, we can also use GitHub's Octicons
+
+
 ### Погребняк Евгений Владимирович
 
-[![](img/thumbs/pogrebnyak.jpg)](img/pogrebnyak.jpg)
+<img src="../img/thumbs/pogrebnyak.jpg" class="person-thumb"/>
 
 https://mgimo.ru/people/pogrebnyak/
+
+<div class="clear"></div>
 
 ## Заместитель декана
 
 ### Алешин Алексей Александрович
 
-[![](img/thumbs/alyeshin.jpg)](img/alyeshin.jpg)
+
+<img src="../img/thumbs/alyeshin.jpg" class="person-thumb"/>
+
 
 https://mgimo.ru/people/alyeshin/
+
+
+<div class="clear"></div>
 
 
 ## Руководители кафедр
@@ -21,25 +34,25 @@ https://mgimo.ru/people/alyeshin/
 
 **Заведующий кафедрой экономики и финансов**
 
-[![](img/thumbs/sarkisyan_jm.jpg)](img/sarkisyan_jm.jpg)
+<img src="../img/thumbs/sarkisyan_jm.jpg" class="person-thumb"/>
 
-<img src="https://epogrebnyak.github.io/finec/people/img/thumbs/sarkisyan_jm.jpg" align="right">
+Ученая степень: Кандидат юридических наук 
 
-**Ученая степень:** Кандидат юридических наук 
-
-**Образование:** МГИМО МИД России
+Образование: МГИМО МИД России
 
 Действительный государственный советник Российской Федерации 3 класса
 
 <!-- Кабинет: 406 -->
 
-[Личная страница в разделе Люди А-Я](https://mgimo.ru/people/sarkisyan-zhaklin/)
+[:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/sarkisyan-zhaklin/)
+
+
 
 ### Василюк Татьяна Николаевна
 
 **Заведующий кафедрой менеджмента**
 
-[![](img/thumbs/vasiluk_tn.jpg)](img/vasiluk_tn.jpg)
+<img src="../img/thumbs/vasiluk_tn.jpg" class="person-thumb"/>
 
 **Ученая степень:** Кандидат экономических наук 
 
@@ -60,8 +73,7 @@ https://mgimo.ru/people/alyeshin/
 
 **Заведующий кафедрой математических методов и бизнес-информатики**
 
-[![](img/thumbs/prichtina_ls.jpg)](img/prichtina_ls.jpg)
-
+<img src="../img/thumbs/prichtina_ls.jpg" class="person-thumb"/>
 
 **Ученая степень:** Кандидат технических наук
 
@@ -82,7 +94,7 @@ https://mgimo.ru/people/alyeshin/
 
 **Заведующий кафедрой цифровой экономики и искусственного интеллекта**
 
-[![](img/thumbs/abramova_av.jpg)](img/abramova_av.jpg)
+<img src="../img/thumbs/abramova_av.jpg" class="person-thumb"/>
 
 **Ученая степень:** Кандидат экономических наук
 
