@@ -1,5 +1,6 @@
-# pip install ruamel.yaml
+"""Utility to create files from "mkdocs.yml"""
 import yaml
+from pathlib import Path
 
 with open("mkdocs.yml",  'r', encoding='utf8') as stream:
     try:
@@ -17,4 +18,11 @@ def values(x):
         for z in elem:
            yield [x for x in z.values()][0]
     
-print(list(values(cfg['nav'])    ))
+files = list(values(cfg['nav']))
+
+# will not create  direcotries
+for file in files:
+    p = Path(cfg['docs_dir']) / file 
+    if not p.exists():
+        print(p.resolve())
+        p.touch()
