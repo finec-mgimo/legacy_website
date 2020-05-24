@@ -4,7 +4,8 @@
 }
 
 .md-header-nav__button.md-logo {
-    padding-top: 0;
+    padding-top: 2px;
+    padding-bottom: 0;
 }
 
 .md-header-nav__button.md-logo img {
