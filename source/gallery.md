@@ -20,3 +20,12 @@ https://mgimo.ru/about/today/logo/
 ## Прозрачный фон 
 
 ![](img/logo-blind.png)
+
+
+## Вектор c надписью
+
+![](img/logo.svg)
+
+## Вектор без надписи
+
+![](img/logo-blind.svg)
