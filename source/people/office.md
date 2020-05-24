@@ -1,9 +1,14 @@
 # Деканат факультета
 
+[![](img/thumbs/belobosova_ns.jpg)](img/belobosova_ns.jpg)
+[![](img/thumbs/nasyrova_sl.jpg)](img/nasyrova_sl.jpg)
+[![](img/thumbs/saveleva_oa.jpg)](img/saveleva_oa.jpg)
+
   
 ## Белобосова Наталия Сергеевна
 
-![](img/belobosova_ns.jpg)
+[![](img/thumbs/belobosova_ns.jpg)](img/belobosova_ns.jpg)
+
 
 Должность: Специалист по учебно-методической работе 1 категории факультета финансовой экономики
 
@@ -12,7 +17,7 @@
 
 ## Савельева Ольга Александровна
 
-![](img/saveleva_oa.jpg)
+[![](img/thumbs/saveleva_oa.jpg)](img/saveleva_oa.jpg)
 
 Должность: Специалист по учебно-методической работе 2 категории факультета финансовой экономики
 
@@ -21,7 +26,7 @@
 
 ## Насырова Светлана Леонидовна
 
-![](img/nasyrova_sl.jpg)
+[![](img/thumbs/nasyrova_sl.jpg)](img/nasyrova_sl.jpg)
 
 Должность: Специалист по учебно-методической работе 2 категории факультета финансовой экономики
 

@@ -2,7 +2,7 @@
 
 ### Погребняк Евгений Владимирович
 
-![](img/pogrebnyak.jpg)
+[![](img/thumbs/pogrebnyak.jpg)](img/pogrebnyak.jpg)
 
 https://mgimo.ru/people/pogrebnyak/
 
@@ -10,13 +10,16 @@ https://mgimo.ru/people/pogrebnyak/
 
 ### Алешин Алексей Александрович
 
-Заместитель декана факультета
+[![](img/thumbs/alyeshin.jpg)](img/alyeshin.jpg)
+
+https://mgimo.ru/people/alyeshin/
+
 
 ## Руководители кафедр
 
 ### Саркисян Жаклин Меружановна
 
-![](img/sarkisyan_jm.jpg)
+[![](img/thumbs/sarkisyan_jm.jpg)](img/sarkisyan_jm.jpg)
 
 Должность по кафедре: Заведующий кафедрой экономики и финансов
 
@@ -33,7 +36,7 @@ https://mgimo.ru/people/sarkisyan-zhaklin/
 
 ### Василюк Татьяна Николаевна
 
-![](img/vasiluk_tn.jpg)
+[![](img/thumbs/vasiluk_tn.jpg)](img/vasiluk_tn.jpg)
 
 
 Должность по кафедре: Заведующий кафедрой менеджмента
@@ -55,7 +58,8 @@ https://mgimo.ru/people/vasilyuk/
 
 ### Притчина Лариса Сергеевна
 
-![](img/prichtina_ls.jpg)
+[![](img/thumbs/prichtina_ls.jpg)](img/prichtina_ls.jpg)
+
 
 Должность по кафедре: Заведующий кафедрой математических методов и бизнес-информатики
 
@@ -75,7 +79,7 @@ https://mgimo.ru/people/pritchina/
 
 ### Абрамова Анна Владимировна
 
-![](img/abramova_av.jpg)
+[![](img/thumbs/abramova_av.jpg)](img/abramova_av.jpg)
 
 Должность по кафедре: Заведующий кафедрой цифровой экономики и искусственного интеллекта
 Ученая степень: Кандидат экономических наук
