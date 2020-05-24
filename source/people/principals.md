@@ -33,7 +33,7 @@ https://mgimo.ru/people/sarkisyan-zhaklin/
 
 ### Василюк Татьяна Николаевна
 
-![](img/vasiluk_tn.jpg)
+![](../img/people/vasiluk_tn.jpg)
 
 
 Должность по кафедре: Заведующий кафедрой менеджмента
