@@ -30,9 +30,9 @@ nav:
 docs_dir: source
 site_dir: docs
 
-#repo_name: finec-mgimo
-#repo_url: https://github.com/epogrebnyak/finec
-#edit_uri: '/epogrebnyak/finec/edit/master/source/'
+repo_name: finec-mgimo
+repo_url: https://github.com/epogrebnyak/finec
+edit_uri: '/epogrebnyak/finec/edit/master/source/'
 
 
 # Copyright
