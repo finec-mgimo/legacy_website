@@ -25,7 +25,6 @@ nav:
   - Напишите нам:
     - Контакты: contacts.md
 
-
 docs_dir: source
 site_dir: docs
 
@@ -33,16 +32,26 @@ site_dir: docs
 #repo_url: https://github.com/epogrebnyak/finec
 #edit_uri: '/epogrebnyak/finec/edit/master/source/'
 
-
 # Copyright
 # copyright: Copyright &copy; 2020 Evgeniy Pogrebnyak
 
+# Custom settings (2):
+extra_css:
+  - css/extra.css
 
 # Configuration
 theme:
   name: material
 
+  # Custom settings (1):
+  # https://squidfunk.github.io/mkdocs-material/getting-started/#logo
   logo: img/vector.svg
+
+  # https://squidfunk.github.io/mkdocs-material/getting-started/#favicon 
+  #favicon: assets/favicon.png
+  #favicon: img/vector.svg
+
+  language: ru
 
   # 404 page
   static_templates:
@@ -53,7 +62,6 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: ru
   features:
     - tabs
     #- instant
@@ -64,10 +72,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  # icon:
-  #   logo: logo
-  # favicon: assets/favicon.png
-  favicon: img/vector.svg
+
 
 # Plugins
 plugins:
@@ -128,6 +133,3 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-extra_css:
-  - css/extra.css
