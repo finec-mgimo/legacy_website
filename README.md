@@ -11,7 +11,8 @@
 ## Установка
 
 
-Для запуска сайта на локальном компьютере требуется [python 3](https://www.python.org/) и mkdocs:
+Для запуска сайта на локальном компьютере требуется [python 3](https://www.python.org/) и 
+генератор сайтов `mkdocs`:
 
 <!--
 ```python get-pip.py``` or ```pip install --upgrade pip``` to update
@@ -19,13 +20,30 @@
 
 Установите mkdocs и необходимые зависимости:
 
+```
+pip install -r requirements.txt 
+```
+
+## Запуск 
+
+Для тестирования на локальном компьютере запустите:
 
 ```
-pip install mkdocs mkdocs-material mkdocs-minify-plugin 
+mkdocs serve
 ```
 
+## Деплой
 
-## Задачи
+Сайт размещается по адресу https://finec-mgimo.github.io/
+
+Деплой делается через репо https://github.com/finec-mgimo/finec-mgimo.github.io
+
+Также есть возможность вывешивать страницу на адрес <https://epogrebnyak.github.io/finec/>. 
+Рекомендуется делать это отдельным коммитом коммитом через скрипт `push.bat`.  
+
+
+
+# Задачи по содержанию
 
 Общие:
 
@@ -33,12 +51,7 @@ pip install mkdocs mkdocs-material mkdocs-minify-plugin
 - [ ] презентация
 - [ ] логотип и графика
 
-Ссылки:
-
-- [ ] опрос
-- [ ] канал телеграм + чат для канала 
-
-Изменения на https://odin.mgimo.ru/fakuprav :
+Изменения на https://odin.mgimo.ru/fakuprav:
 
 - [ ] поменять на https://odin.mgimo.ru/finec
 - [ ] убрать текст с https://odin.mgimo.ru/fakuprav
