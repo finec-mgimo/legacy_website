@@ -1,16 +1,15 @@
 ## Декан факультета
 
 
-* :material-account-circle: – we can use Material Design icons
-* :fontawesome-regular-laugh-wink: – we can also use FontAwesome icons
-* :octicons-octoface: – that's not all, we can also use GitHub's Octicons
-
-
 ### Погребняк Евгений Владимирович
 
 <img src="../img/thumbs/pogrebnyak.jpg" class="person-thumb"/>
 
-https://mgimo.ru/people/pogrebnyak/
+Ученая степень: Кандидат экономических наук 
+
+Образование: Экономический факультет МГУ им. М.В. Ломоносова
+
+[:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/pogrebnyak/)
 
 <div class="clear"></div>
 
@@ -18,12 +17,13 @@ https://mgimo.ru/people/pogrebnyak/
 
 ### Алешин Алексей Александрович
 
-
 <img src="../img/thumbs/alyeshin.jpg" class="person-thumb"/>
 
+Образование: Московский авиационный институт. Инженер-экономист. 
 
-https://mgimo.ru/people/alyeshin/
+Стаж преподавания  дисциплин в рамках профессиональных квалификаций ACCA и CIMA более 15 лет.
 
+[:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/alyeshin/)
 
 <div class="clear"></div>
 
@@ -47,24 +47,23 @@ https://mgimo.ru/people/alyeshin/
 [:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/sarkisyan-zhaklin/)
 
 
-
 ### Василюк Татьяна Николаевна
 
 **Заведующий кафедрой менеджмента**
 
 <img src="../img/thumbs/vasiluk_tn.jpg" class="person-thumb"/>
 
-**Ученая степень:** Кандидат экономических наук 
+Ученая степень: Кандидат экономических наук 
 
-**Ученое звание:** Доцент
+Ученое звание: Доцент
 
-**Образование:** Экономический факультет МГУ им. М.В. Ломоносова
+Образование: Экономический факультет МГУ им. М.В. Ломоносова
 
 Стаж работы в высших учебных заведениях: с 1980 года
 
 Научные и учебные издания: автор более 50 трудов.
 
-[Личная страница в разделе Люди А-Я](https://mgimo.ru/people/vasilyuk/)
+[:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/vasilyuk/)
 
 <!--  Кабинет: 424 -->
 
@@ -75,11 +74,11 @@ https://mgimo.ru/people/alyeshin/
 
 <img src="../img/thumbs/prichtina_ls.jpg" class="person-thumb"/>
 
-**Ученая степень:** Кандидат технических наук
+Ученая степень: Кандидат технических наук
 
-**Ученое звание:** Доцент
+Ученое звание: Доцент
 
-**Образование:** Государственный университет управления
+Образование: Государственный университет управления
 
 Стаж работы по специальности - с 1983 года, стаж работы в МГИМО - с 2016 года.
 
@@ -87,7 +86,7 @@ https://mgimo.ru/people/alyeshin/
 
 <!-- Кабинет: 535 -->
 
-[Личная страница в разделе Люди А-Я](https://mgimo.ru/people/pritchina/)
+[:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/pritchina/)
 
 
 ### Абрамова Анна Владимировна
@@ -96,12 +95,12 @@ https://mgimo.ru/people/alyeshin/
 
 <img src="../img/thumbs/abramova_av.jpg" class="person-thumb"/>
 
-**Ученая степень:** Кандидат экономических наук
+Ученая степень: Кандидат экономических наук
 
-**Ученое звание:** Доцент
+Ученое звание: Доцент
 
-**Образование:** МГИМО МИД России
+Образование: МГИМО МИД России
 
 <!-- Кабинет: 408 -->
 
-[Личная страница в разделе Люди А-Я](https://mgimo.ru/people/abramova-anna/)
+[:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/abramova-anna/)
