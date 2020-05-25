@@ -1,23 +1,24 @@
-site_name: Факультет финансовой экономики
+site_name: Факультет финансовой экономики (проект страницы)
 
 nav:
   - День открытых дверей: index.md
   - О факультете:
-    - Наш кампус: campus.md
+    - Презентация: presentation.md
     - Фото: pictures.md
-    - Логотип: gallery.md
     - Мы в интернете: site.md
+    - Логотип: gallery.md
     - Контакты: contacts.md
   - Программы обучения:
-    - Обзор программ: programs.md
+    - Обзор программ: program/about.md
     - Финансовая экономика и финансовые технологии: program/fefm.md
     - Финансовый менеджмент: program/fm.md
     - Информационные технологии в международном бизнесе: program/itmb.md
-  - Кафедры:
-    - Кафедра экономики и финансов: chair/finec.md
-    - Кафедра менеджмента: chair/management.md
-    - Кафедра математических методов и бизнес-информатики: chair/mmbi.md
-    - Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ: chair/ai.md
+  # Добавить по мере постуления информации:
+  #- Кафедры:
+  #  - Кафедра экономики и финансов: chair/finec.md
+  #  - Кафедра менеджмента: chair/management.md
+  #  - Кафедра математических методов и бизнес-информатики: chair/mmbi.md
+  #  - Кафедра цифровой экономики и искусственного интеллекта группы компаний АДВ: chair/ai.md
   - Сотрудники:
     - Руководство: people/principals.md
     - Деканат: people/office.md
@@ -28,10 +29,9 @@ nav:
 docs_dir: source
 site_dir: docs
 
-
-repo_name: finec-mgimo
-repo_url: https://github.com/epogrebnyak/finec
-edit_uri: '/epogrebnyak/finec/edit/master/source/'
+#repo_name: finec-mgimo
+#repo_url: https://github.com/epogrebnyak/finec
+#edit_uri: '/epogrebnyak/finec/edit/master/source/'
 
 
 # Copyright
