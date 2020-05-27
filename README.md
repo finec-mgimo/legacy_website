@@ -51,8 +51,3 @@ mkdocs serve
 - [ ] презентация
 - [ ] логотип и графика
 
-Изменения на https://odin.mgimo.ru/fakuprav:
-
-- [ ] поменять на https://odin.mgimo.ru/finec
-- [ ] убрать текст с https://odin.mgimo.ru/fakuprav
-- [ ] другие изменения
