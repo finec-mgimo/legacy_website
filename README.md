@@ -39,4 +39,4 @@ mkdocs serve
 Деплой делается через репо https://github.com/finec-mgimo/finec-mgimo.github.io
 
 Также есть возможность вывешивать страницу на адрес <https://epogrebnyak.github.io/finec/>. 
-Рекомендуется делать это отдельным коммитом коммитом через скрипт `push.bat`.  
+Рекомендуется делать это отдельным коммитом через скрипт `push.bat`.  
