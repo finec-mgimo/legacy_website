@@ -9,7 +9,7 @@
 
 Экономика:
 
-- ["Финансовая экономика и финансовые технологии"](http://pk.odin.mgimo.ru/bakalavriat/efi.html)
+- ["Финансовая экономика и финансовые технологии"](http://pk.odin.mgimo.ru/bakalavriat/efi/index.html)
 
 Менеджмент:
 
