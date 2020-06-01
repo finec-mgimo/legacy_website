@@ -1,8 +1,14 @@
+Тексты выступлений
+==================
 
-Техническая расшифровка
-=================================================
+Техническая расшифровка по автоматическим субтитрам Youtube, будет дорабатываться.
 
-По автоматическим субтитрам Youtube, будет дорабатываться.
+Исходное видео: https://www.youtube.com/watch?v=i4nXeMh3Y4Y
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i4nXeMh3Y4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Адреса для размещения - FINEC-TV 
+
 
 Директор Одинцовского филиала МГИМО  Е.А. Козловская
 ----------------------------------------------------
