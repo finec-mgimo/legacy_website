@@ -3,15 +3,15 @@ site_name: Факультет финансовой экономики МГИМО
 nav:
   - День открытых дверей: index.md
 
-  #- О факультете:
-    #- День открытых дверей: dod/index.md
+  - О факультете:
+    - День открытых дверей: dod/index.md
     #- Презентация: presentation.md
     #- Фото: pictures.md
     #- Студенческая жизнь: pictures.md
     #- Летняя школа: summer.md
     #- Мы в интернете: site.md
-    #- Логотип: logo.md
-    #- Контакты: contacts.md
+    - Логотип: logo.md
+    - Свяжитесь с нами: contacts.md
 
   - Программы обучения:
     - Обзор программ: program/about.md
@@ -60,13 +60,13 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/getting-started/#logo
   logo: img/logo/vector.svg
 
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#favicon 
-	# The favicon is from mgimo.ru 
+  # https://squidfunk.github.io/mkdocs-material/getting-started/#favicon
+  # The favicon is from mgimo.ru
   # It is a transparent image, no background
-  #<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	#<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
-	#<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-	#<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"-->
+  # <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  # <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+  # <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+  # <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"-->
   favicon: img/logo/favicon-32x32.png
 
   language: ru
