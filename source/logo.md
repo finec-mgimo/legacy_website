@@ -1,18 +1,27 @@
 # Логотипы
 
-## Заставка сайта 
+См. также логотипы на [странцие МГИМО](https://mgimo.ru/about/today/logo/).
 
-![](img/front_dash.jpg)
+## Растровые рисунки
+
+<!-- поменять на png -->
+
+![](img/logo/front_dash.jpg)
+
+<center>
+![Для подписи](img/logo/finec.png)
+</center>
 
 ## Векторные рисунки
 
 ### C надписью
 
-![](img/vector-caption.svg)
+![](img/logo/vector-caption.svg)
 
 ### Без надписи
 
-![](img/vector.svg)
+<!-- Используется в mkdocs.yml -->
 
-
-Логотипы на [странцие МГИМО](https://mgimo.ru/about/today/logo/)
+<center>
+![](img/logo/vector.svg)
+</center>
