@@ -56,13 +56,18 @@ extra_css:
 theme:
   name: material
 
-  # Custom settings (1):
+  # Custom settings:
   # https://squidfunk.github.io/mkdocs-material/getting-started/#logo
-  logo: img/vector.svg
+  logo: img/logo/vector.svg
 
   # https://squidfunk.github.io/mkdocs-material/getting-started/#favicon 
-  #favicon: assets/favicon.png
-  #favicon: img/vector.svg
+	# The favicon is from mgimo.ru 
+  # It is a transparent image, no background
+  #<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	#<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+	#<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	#<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"-->
+  favicon: img/logo/favicon-32x32.png
 
   language: ru
 
