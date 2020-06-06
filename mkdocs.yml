@@ -35,7 +35,7 @@ nav:
     - Деканат: people/office.md
     - Кафедры: people/departments.md
   
-  - Напишите нам:
+  - Свяжитесь с нами:
     - Контакты: contacts.md
 
 docs_dir: source
@@ -46,9 +46,9 @@ site_dir: docs
 #edit_uri: '/epogrebnyak/finec/edit/master/source/'
 
 # Copyright
-# copyright: Copyright &copy; 2020 Evgeniy Pogrebnyak
+copyright: Copyright &copy; 2020 Факультет финансовой экономики МГИМО-Одинцово
 
-# Custom settings (2):
+# Custom settings:
 extra_css:
   - css/extra.css
 
