@@ -151,3 +151,5 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+google_analytics: ['UA-168750267-1', 'finec.mgimo.ru']
