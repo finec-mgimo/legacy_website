@@ -1,7 +1,5 @@
 # Логотипы
 
-См. также логотипы на [странцие МГИМО](https://mgimo.ru/about/today/logo/).
-
 ## Растровые рисунки
 
 <!-- поменять на png -->
@@ -25,3 +23,7 @@
 <center>
 ![](img/logo/vector.svg)
 </center>
+
+
+См. также логотипы на [странцие МГИМО](https://mgimo.ru/about/today/logo/).
+

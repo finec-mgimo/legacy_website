@@ -2,14 +2,15 @@ site_name: Факультет финансовой экономики МГИМО
 
 nav:
   - О факультете:
-    - Новости: index.md
+    - Анонсы: index.md
     - День открытых дверей: dod/index.md
+    #  - Вступительное слово директора МГИМО-Одинцово: dod/kozlovskaya.md 
     #- Презентация: presentation.md
     #- Фото: pictures.md
     #- Студенческая жизнь: pictures.md
     #- Летняя школа: summer.md
     #- Мы в интернете: site.md
-    - Логотип: logo.md
+    #- Логотип: logo.md - finec.mgimo.ru/logo
     - Наш кампус: campus.md
     - Свяжитесь с нами: contacts.md
 
