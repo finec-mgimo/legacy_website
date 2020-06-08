@@ -29,13 +29,17 @@
 
 ## Направление "Экономика" 
 
+### Бакалаврская программа "Финансовая экономика и финансовые технологии"
+
 <!--
 [Текст полностью](sarkisyan.md)
 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D3TJfnFUxOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!--
 [Текст полностью](kazachkov.md)
+-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmMpM550kkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -83,11 +87,11 @@
 
 ## Блиц-интервью наших студентов 
 
-- [Денис Чавлеишвили](students.md) 
-- [Кристина Воищева](students.md) 
-- [Виола Иконникова](students.md) 
-- [Димитрий Бычков](students.md) 
-- [Анна Васильева](students.md)
+- [Денис Чавлеишвили](students.md#_1) 
+- [Кристина Воищева](students.md#_2) 
+- [Виола Иконникова](students.md#_3) 
+- [Димитрий Бычков](students.md#_4) 
+- [Анна Васильева](students.md#_5)
 
 ## Особенности приемной кампании в 2020 году
 
