@@ -5,9 +5,9 @@ nav:
     - Анонсы: index.md
     - День открытых дверей: dod/index.md
     - Интервью декана: interview.md 
-    - Студенческая жизнь (*): student.md
+    - Рассказывают студенты: dod/students.md
     #- Летняя школа: summer.md
-    #- Логотип: logo.md - finec.mgimo.ru/logo
+    #- Логотип: logo.md - finec.mgimo.ru/logo / update.md
     - Наш кампус: campus.md
     - Свяжитесь с нами: contacts.md
 

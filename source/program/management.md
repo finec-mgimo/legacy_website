@@ -1,6 +1,6 @@
 # Направление "Менеджмент" 
 
-#### Бакалаврская программа "Финансовый менеджмент"
+## Бакалаврская программа "Финансовый менеджмент"
 
 [Текст полностью](../dod/vasilyuk.md)
 
@@ -10,7 +10,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bSjYHxagFic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Бакалаврская программа двойного диплома совместно с MIUC
+## Бакалаврская программа двойного диплома совместно с MIUC
 
 [Текст полностью](../dod/bondarenko.md)
 
