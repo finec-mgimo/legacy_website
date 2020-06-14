@@ -1,8 +1,6 @@
+# Заместитель директора МГИМО-Одинцово И.А. Мазаева о языковой подготовке
 
-Зам. директора И.А. Мазаева
----------------------------
-
-**TODO: вставить видео выступления **
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_I8y1G2_vp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Optional: вставить ответы спикера на вопросы**
 

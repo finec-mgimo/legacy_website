@@ -4,18 +4,18 @@ nav:
   - О факультете:
     - Анонсы: index.md
     - День открытых дверей: dod/index.md
-    #  - Вступительное слово директора МГИМО-Одинцово: dod/kozlovskaya.md 
-    #- Презентация: presentation.md
-    #- Фото: pictures.md
-    #- Студенческая жизнь: pictures.md
+    - Интервью декана: interview.md 
+    - Студенческая жизнь (*): student.md
     #- Летняя школа: summer.md
-    #- Мы в интернете: site.md
     #- Логотип: logo.md - finec.mgimo.ru/logo
     - Наш кампус: campus.md
     - Свяжитесь с нами: contacts.md
 
   - Программы обучения:
     - Обзор программ: program/about.md
+    - Экономика:  program/economics.md
+    - Менеджмент: program/management.md
+    - Бизнес-информатика: program/bi.md
 
   # Добавить по мере постуления:
 
@@ -62,12 +62,7 @@ theme:
   logo: img/logo/vector.svg
 
   # https://squidfunk.github.io/mkdocs-material/getting-started/#favicon
-  # The favicon is from mgimo.ru
-  # It is a transparent image, no background
-  # <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-  # <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
-  # <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-  # <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"-->
+  # The favicon is from mgimo.ru webpage
   favicon: img/logo/favicon-32x32.png
 
   language: ru

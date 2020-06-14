@@ -1,14 +1,9 @@
 # Программа "Финансовый менеджмент" (бакалавры)
 
 Заведующий кафедрой, к.э.н. Т.Н. Василюк
+----------------------------------------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3oimsczN9JY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Зав. кафедрой  Т.Н. Василюк
----------------------------
-
-**ТОDО: вставить видео выступления**
 
 
 Добрый вечер я
