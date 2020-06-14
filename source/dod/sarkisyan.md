@@ -1,7 +1,7 @@
 Зав. кафедрой  Ж.М. Саркисян
 ----------------------------
 
-**TODO: вставить видео выступления **
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D3TJfnFUxOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Спасибо добрый день кафедра экономики и
 финансов ответственна за две программы одна программа бакалавриата и
