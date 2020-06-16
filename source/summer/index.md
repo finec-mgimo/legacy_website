@@ -2,6 +2,7 @@
 
 (предложения по занятиям факультета финансовой экономики)
 
+![](https://raw.githubusercontent.com/finec-mgimo/preview/master/source/img/logo/finec.png)
 
 Кафедра экономики и финансов
 ----------------------------
