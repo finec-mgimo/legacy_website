@@ -10,8 +10,16 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bSjYHxagFic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+> [**:material-school-outline:** Перейти на страницу приемной комиссии программы "Финансовый менеджмент"][fm-pk]
+
+[fm-pk]: http://pk.odin.mgimo.ru/bakalavriat/fim.html
+
 ## Бакалаврская программа двойного диплома совместно с MIUC
 
 [Текст полностью](../dod/bondarenko.md)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UdL3sBQtdN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> [**:material-school-outline:** Перейти на страницу приемной комиссии программы "Международный бизнес"](http://pk.odin.mgimo.ru/bakalavriat/miuc.html)
+
+
