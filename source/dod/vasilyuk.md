@@ -1,7 +1,6 @@
-# Программа "Финансовый менеджмент" (бакалавры)
+# Бакалаварская программа "Финансовый менеджмент"
 
 **Заведующий кафедрой, к.э.н. Т.Н. Василюк**
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3oimsczN9JY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -66,3 +65,6 @@
 И этот специалист, придя на собеседование может с гордостью сказать: «Я - выпускник МГИМО». И одно это оставит далеко позади остальных претендентов на ту или иную вакансию. 
 
 Выбор за вами, ждем вас на нашей программе!
+
+> [**:material-school-outline:** Поступление на программу "Финансовый менеджмент"](http://pk.odin.mgimo.ru/bakalavriat/fim.html)
+
