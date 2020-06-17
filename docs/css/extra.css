@@ -1,0 +1,23 @@
+.md-tabs,
+.md-header {
+    background-color: #256398;
+}
+
+.md-header-nav__button.md-logo {
+    padding-top: 2px;
+    padding-bottom: 0;
+}
+.md-header-nav__button.md-logo img {
+    width: 3rem;
+    height: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.person-thumb {
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    float: left;
+}
