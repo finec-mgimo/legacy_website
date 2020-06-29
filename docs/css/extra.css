@@ -21,3 +21,9 @@
     margin-bottom: 0.5rem;
     float: left;
 }
+
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title[for=__drawer] {
+        background-color: #256398;
+    }
+}
