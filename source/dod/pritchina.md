@@ -95,4 +95,4 @@
 Если появятся дополнительные вопросы, я с удовольствием на
 них отвечу!
 
-> [**:material-school-outline:** Поступление на программу "Информационные технологии в международном бизнесе"](http://pk.odin.mgimo.ru/bakalavriat/efi/index.html)
+> [**:material-school-outline:** Поступление на программу "Информационные технологии в международном бизнесе"](http://pk.odin.mgimo.ru/bakalavriat/itmb.html)
