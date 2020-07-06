@@ -1,4 +1,5 @@
 site_name: Факультет финансовой экономики МГИМО-Одинцово
+site_description: Официальный сайт факультета финансовой экономики МГИМО-Одинцово
 
 nav:
   - О факультете:
@@ -58,6 +59,9 @@ theme:
   name: material
 
   # Custom settings:
+  # https://squidfunk.github.io/mkdocs-material/customization/#setup-and-theme-structure
+  custom_dir: custom-theme
+  
   # https://squidfunk.github.io/mkdocs-material/getting-started/#logo
   logo: img/logo/vector.svg
 
