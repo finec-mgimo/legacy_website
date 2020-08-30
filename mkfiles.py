@@ -1,4 +1,6 @@
-"""Utility to create files from "mkdocs.yml"""
+"""Utility to create empty files for all files listed in mkdocs.yml.
+The utility will not create directories.
+"""
 import yaml
 from pathlib import Path
 
@@ -20,7 +22,6 @@ def values(x):
     
 files = list(values(cfg['nav']))
 
-# will not create  direcotries
 for file in files:
     p = Path(cfg['docs_dir']) / file 
     if not p.exists():
