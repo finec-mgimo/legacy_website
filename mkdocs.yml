@@ -1,5 +1,7 @@
 site_name: Факультет финансовой экономики МГИМО-Одинцово
 site_description: Официальный сайт факультета финансовой экономики МГИМО-Одинцово
+docs_dir: docs
+site_dir: site
 
 nav:
   - О факультете:
@@ -39,9 +41,6 @@ nav:
   
   - Свяжитесь с нами:
     - Контакты: contacts.md
-
-docs_dir: source
-site_dir: docs
 
 #repo_name: finec-mgimo
 #repo_url: https://github.com/epogrebnyak/finec
