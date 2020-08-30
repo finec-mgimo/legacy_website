@@ -6,11 +6,10 @@ site_dir: site
 nav:
   - О факультете:
     - Анонсы: index.md
+    - Первокурсникам: 1kurs/index.md
     - День открытых дверей: dod/index.md
     - Интервью декана: interview.md 
     - Рассказывают студенты: dod/students.md
-    #- Летняя школа: summer.md
-    #- Логотип: logo.md - finec.mgimo.ru/logo / update.md
     - Наш кампус: campus.md
     - Свяжитесь с нами: contacts.md
 
@@ -19,12 +18,6 @@ nav:
     - Экономика:  program/economics.md
     - Менеджмент: program/management.md
     - Бизнес-информатика: program/bi.md
-
-  # Добавить по мере постуления:
-
-  #  - Финансовая экономика и финансовые технологии: program/fefm.md
-  #  - Финансовый менеджмент: program/fm.md
-  #  - Информационные технологии в международном бизнесе: program/itmb.md
 
   # Добавить по мере постуления:
 
@@ -41,10 +34,6 @@ nav:
   
   - Свяжитесь с нами:
     - Контакты: contacts.md
-
-#repo_name: finec-mgimo
-#repo_url: https://github.com/epogrebnyak/finec
-#edit_uri: '/epogrebnyak/finec/edit/master/source/'
 
 # Copyright
 copyright: Copyright &copy; 2020 Факультет финансовой экономики МГИМО-Одинцово
