@@ -31,7 +31,6 @@ mkdocs serve
 
 - Работающий сайт размещается по адресу <https://finec.mgimo.ru>.
 - `finec.mgimo.ru` указывает на сайт <https://github.com/finec-mgimo/finec-mgimo.github.io>
-- Предварительный просмотр изменений: <https://github.com/finec-mgimo/preview>
 
 ## Исходные сайты
 
