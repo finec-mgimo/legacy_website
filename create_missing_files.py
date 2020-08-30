@@ -1,5 +1,5 @@
 """Utility to create empty files for all files listed in mkdocs.yml.
-The utility will not create directories.
+The utility will not create missing directories.
 """
 import yaml
 from pathlib import Path
