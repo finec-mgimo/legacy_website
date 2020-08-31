@@ -6,7 +6,7 @@ site_dir: site
 nav:
   - О факультете:
     - Анонсы: index.md
-    - Первокурсникам: 1kurs/index.md
+    - Страница первокурсника: 1kurs/index.md
     - День открытых дверей: dod/index.md
     - Интервью декана: interview.md 
     - Рассказывают студенты: dod/students.md
