@@ -13,6 +13,7 @@
 
 <div class="clear"></div>
 
+<!--
 ## Заместитель декана
 
 ### Алешин Алексей Александрович
@@ -26,7 +27,7 @@
 [:fontawesome-regular-address-card: Личная страница в разделе Люди А-Я](https://mgimo.ru/people/alyeshin/)
 
 <div class="clear"></div>
-
+-->
 
 ## Руководители кафедр
 
